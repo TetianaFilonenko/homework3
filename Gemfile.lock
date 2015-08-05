@@ -41,3 +41,6 @@ DEPENDENCIES
   pry
   rake
   rubyzip
+
+BUNDLED WITH
+   1.10.3
